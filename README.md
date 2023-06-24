@@ -2,7 +2,7 @@
 
 <br>
 
-- 🌱 Estou atualmente aprendendo Front End
+- 🌱 Estou atualmente aprendendo Front End e Back End
 - 📫 Contate-me no e-mail: mandysibeiro@gmail.com
 - 🤓  Tenho conhecimentos em HTML, CSS, JavaScript, UX e UI
 - 🤝 Estou aberta a colaborações em projetos interessantes
