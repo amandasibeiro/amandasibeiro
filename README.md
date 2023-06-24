@@ -1,5 +1,5 @@
-### Olá! Eu sou a Amanda Ribeiro 👋 
-----------------------------
+## Olá! Eu sou a Amanda Ribeiro 👋 
+
 - 🌱 Estou atualmente aprendendo Front End
 - 📫 Contate-me no e-mail: mandysibeiro@gmail.com
 - 🤓  Tenho conhecimentos em HTML, CSS, JavaScript, UX e UI
