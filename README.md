@@ -8,7 +8,7 @@
 - 🤝 I am open to collaborations on interesting projects
 
 
-🎧 What do I listen to while I programming?
+🎧 What do I listen to while programming?
   ----------------------------
  ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=2xxue1r6lw0akdzmpwyar0rwd&width=600)
 
