@@ -2,13 +2,13 @@
 
 <br>
 
-- 🌱 Estou atualmente aprendendo Front End e Back End
-- 📫 Contate-me no e-mail: mandysibeiro@gmail.com
-- 🤓  Tenho conhecimentos em HTML, CSS, JavaScript, UX e UI
-- 🤝 Estou aberta a colaborações em projetos interessantes
+- 🌱 I'm cunrrently learning Front End e Back End
+- 📫 Contact me on email: mandysibeiro@gmail.com
+- 🤓 I got knowledge in HTML, CSS, JavaScript, UX and UI
+- 🤝 I am open to collaborations on interesting projects
 
 
-🎧 O quê eu escuto enquanto programo?
+🎧 What do I listen to while I programming?
   ----------------------------
  ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=2xxue1r6lw0akdzmpwyar0rwd&width=600)
 
