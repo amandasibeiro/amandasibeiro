@@ -1,8 +1,8 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=000066&size=40&center=true&vCenter=true&width=1000&lines=Olá,+bem-vindo(a)+ao+meu+perfil!+👋;Me+chamo+Amanda+Ribeiro+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=000066&size=40&center=true&vCenter=true&width=1000&lines=Hi,+Welcome+to+my+profile+👋;I'm+Amanda+Ribeiro+:%29)](https://git.io/typing-svg)
 
 <br>
 
-- 🌱 I'm cunrrently learning Front End e Back End
+- 🌱 I'm currently learning Front End e Back End
 - 📫 Contact me on email: mandysibeiro@gmail.com
 - 🤓 I got knowledge in HTML, CSS, JavaScript, UX and UI
 - 🤝 I am open to collaborations on interesting projects
