@@ -4,7 +4,7 @@
 
 - 🌱 I'm currently learning Front End e Back End
 - 📫 Contact me on email: mandysibeiro@gmail.com
-- 🤓 I got knowledge in HTML, CSS, JavaScript, UX and UI
+- 🤓 I got knowledge in HTML, CSS and JavaScript
 - 🤝 I am open to collaborations on interesting projects
 
 
