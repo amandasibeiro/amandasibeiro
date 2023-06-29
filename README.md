@@ -2,7 +2,7 @@
 
 <br>
 
-- 🌱 I'm currently learning Front End e Back End
+- 🌱 I'm currently learning Front End development
 - 📫 Contact me on email: mandysibeiro@gmail.com
 - 🤓 I got knowledge in HTML, CSS and JavaScript
 - 🤝 I am open to collaborations on interesting projects
