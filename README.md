@@ -10,7 +10,7 @@
 
 🎧 What do I listen to while programming?
   ----------------------------
- ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=2xxue1r6lw0akdzmpwyar0rwd&width=600)
+ ![Spotify recently played](https://spotify-recently-played.jeffreyca.workers.dev/svg?user=2xxue1r6lw0akdzmpwyar0rwd)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
